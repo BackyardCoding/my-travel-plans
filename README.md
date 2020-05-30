@@ -1,6 +1,6 @@
 # Travel Destinations
 
-A simple app to keep track of destinations I'd like to visit. This is the first committed respository of MDumbuya. 
+A simple app to keep track of destinations I'd like to visit. This is the first committed respository of MDumbuya. The development of this repository has stopped. 
 
 ## Description 
 The depicted code of the repository was developed as part of Udactity Nanodegree _Cloud DevOps Engineer_ program. 
